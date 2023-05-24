@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://profile-card-component-ak.netlify.app/))
+- Live Site URL: [Live Site](https://profile-card-component-ak.netlify.app/)
 
 
 ### Screenshot
